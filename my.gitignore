@@ -1,0 +1,14 @@
+cricket_env/
+__pycache__/
+*.pyc
+*.pth
+*.pt
+data/raw_clips/
+data/frames/
+.env
+*.mp4
+*.avi
+*.jpg
+*.png
+!test_images/
+*.mp3
