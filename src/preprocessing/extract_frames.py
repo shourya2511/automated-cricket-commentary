@@ -6,11 +6,11 @@ from pathlib import Path
 RAW_CLIPS_DIR = Path("data/raw_clips/cover_drives")
 OUTPUT_DIR = Path("data/frames/cover_drive")
 
-FRAME_SKIP = 5 #SAVE EVERY 5TH FRAME
+FRAME_SKIP = 5
 RESIZE_WIDTH = 224
 RESIZE_HEIGHT = 224
 
-# frame extraction function
+
 
 def extract_frames(video_path : Path):
 
