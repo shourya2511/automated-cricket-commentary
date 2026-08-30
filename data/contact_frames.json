@@ -1,0 +1,66 @@
+{
+    "cover1.mp4": [{
+            "start": 0,
+            "contact": 25
+        },
+        {
+            "start": 213,
+            "contact": 236
+        },
+        {
+            "start": 334,
+            "contact": 347
+        },
+        {
+            "start": 446,
+            "contact": 464
+        }
+    ],
+    "cover2.mp4": [{
+            "start": 0,
+            "contact": 26
+        },
+        {
+            "start": 104,
+            "contact": 126
+        },
+        {
+            "start": 231,
+            "contact": 247
+        },
+        {
+            "start": 355,
+            "contact": 371
+        },
+        {
+            "start": 460,
+            "contact": 474
+        }
+    ],
+    "cover3.mp4": [{
+            "start": 0,
+            "contact": 24
+        },
+        {
+            "start": 117,
+            "contact": 155
+        },
+        {
+            "start": 282,
+            "contact": 320
+        },
+
+        {
+            "start": 550,
+            "contact": 597
+        },
+        {
+            "start": 744,
+            "contact": 745
+        },
+        {
+            "start": 900,
+            "contact": 939
+        }
+    ]
+}
