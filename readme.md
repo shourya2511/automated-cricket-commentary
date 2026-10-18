@@ -1,4 +1,4 @@
-+  -> Gemini commentary text
++  -> Gemini commentary
 +  -> gTTS MP3
 +```
 +
