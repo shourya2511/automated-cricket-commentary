@@ -3,3 +3,5 @@ data/debug_crops/
 __pycache__/
 *.pyc
 .vscode/
+
+.env
